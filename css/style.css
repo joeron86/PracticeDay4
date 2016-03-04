@@ -1,0 +1,20 @@
+.container-fluid {
+padding: 0;
+}
+
+.navbar {
+  margin-bottom: 0;
+  background-color: #020100;
+}
+
+.jumbotron{
+  background-color: #C1292E;
+}
+
+.jumbotron h1 {
+  color: #FDFFFC;
+}
+
+.jumbotron p {
+  color: #020100;
+}
